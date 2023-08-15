@@ -59,3 +59,11 @@ print(x)  # This will result in an error
 ```
 
 Understanding functions is key to writing organized and maintainable code. In the next section, we'll explore different data structures available in Python. If you're ready, let's continue!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/4_control_flow" style="margin: 10px; text-decoration: none;">← Control Flow</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/6_data_structures" style="margin: 10px; text-decoration: none;">Data Structures →</a>
+</div>
