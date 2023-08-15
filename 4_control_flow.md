@@ -61,7 +61,7 @@ Understanding control flow is crucial for building complex programs. In the next
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">← Syntax</a>
+    <a href="https://bitquip.github.io/Python-guide/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">← Syntax</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/5_functions" style="margin: 10px; text-decoration: none;">Functions →</a>
+    <a href="https://bitquip.github.io/Python-guide/5_functions" style="margin: 10px; text-decoration: none;">Functions →</a>
 </div>
