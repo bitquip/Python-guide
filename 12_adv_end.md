@@ -66,6 +66,6 @@ Happy coding!
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/11_adv_intro" style="margin: 10px; text-decoration: none;">← Advanced</a>
+    <a href="https://bitquip.github.io/Python-guide/11_adv_intro" style="margin: 10px; text-decoration: none;">← Advanced</a>
     <span style="margin: 10px;"></span>
 </div>
