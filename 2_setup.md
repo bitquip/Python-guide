@@ -29,7 +29,7 @@ In the next section, we'll dive into the basic syntax of Python and explore its 
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/1_intro" style="margin: 10px; text-decoration: none;">← Intro</a>
+    <a href="https://bitquip.github.io/Python-guide/1_intro" style="margin: 10px; text-decoration: none;">← Intro</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">Syntax →</a>
+    <a href="https://bitquip.github.io/Python-guide/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">Syntax →</a>
 </div>
