@@ -56,4 +56,16 @@ for result in results:
 
 Keep in mind that threading introduces complexities like synchronization and potential race conditions. Consider using higher-level concurrency libraries like `asyncio` for more complex use cases.
 
-Congratulations on reaching the end of this advanced section! You've now covered threading and concurrency in Python, which can greatly enhance the performance and efficiency of your programs. With this knowledge, you're well-prepared to tackle a wide range of projects here at Vizient. Happy coding!
+Congratulations on reaching the end of this advanced section! You've now covered threading and concurrency in Python, which can greatly enhance the performance and efficiency of your programs.
+
+With this knowledge, you're well-prepared to tackle a wide range of projects here at Vizient. 
+
+Happy coding!
+
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/11_adv_intro" style="margin: 10px; text-decoration: none;">← Advanced</a>
+    <span style="margin: 10px;"></span>
+</div>
