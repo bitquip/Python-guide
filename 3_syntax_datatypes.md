@@ -65,7 +65,7 @@ In the next section, we'll delve into control flow with conditional statements a
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/2_setup" style="margin: 10px; text-decoration: none;">← Setup</a>
+    <a href="https://bitquip.github.io/Python-guide/2_setup" style="margin: 10px; text-decoration: none;">← Setup</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/4_control_flow" style="margin: 10px; text-decoration: none;">Control Flow →</a>
+    <a href="https://bitquip.github.io/Python-guide/4_control_flow" style="margin: 10px; text-decoration: none;">Control Flow →</a>
 </div>
