@@ -49,6 +49,14 @@ for i in range(10):
     print(i)
 ```
 
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">← Syntax</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/5_functions" style="margin: 10px; text-decoration: none;">Functions →</a>
+</div>
+
 ```python
 for i in range(10):
     if i % 2 == 0:
