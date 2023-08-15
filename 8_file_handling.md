@@ -39,7 +39,7 @@ In the next section, we'll delve into exception handling, which allows you to gr
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/7_modules" style="margin: 10px; text-decoration: none;">← Modules</a>
+    <a href="https://bitquip.github.io/Python-guide/7_modules" style="margin: 10px; text-decoration: none;">← Modules</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/9_exceptions" style="margin: 10px; text-decoration: none;">Exceptions →</a>
+    <a href="https://bitquip.github.io/Python-guide/9_exceptions" style="margin: 10px; text-decoration: none;">Exceptions →</a>
 </div>
