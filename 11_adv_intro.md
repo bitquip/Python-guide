@@ -48,4 +48,12 @@ with open("file.txt", "r") as file:
 # File is automatically closed outside the "with" block
 ```
 
-These advanced topics can significantly enhance your Python skills. Remember, practice and exploration are key to becoming a proficient Python developer. Congratulations, you've completed the Python onboarding tutorial! You're now well-equipped to contribute effectively to projects at [Your Company Name]. Happy coding!
+These advanced topics can significantly enhance your Python skills. Remember, practice and exploration are key to becoming a proficient Python developer. 
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/10_oop" style="margin: 10px; text-decoration: none;">← OOP</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/12_adv_end" style="margin: 10px; text-decoration: none;">Threads (Advanced) →</a>
+</div>
