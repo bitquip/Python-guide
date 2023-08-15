@@ -61,3 +61,11 @@ print("Hello,", name)
 ```
 
 In the next section, we'll delve into control flow with conditional statements and loops. Feel free to experiment with the code examples provided here.
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/2_setup" style="margin: 10px; text-decoration: none;">← Setup</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/4_control_flow" style="margin: 10px; text-decoration: none;">Control Flow →</a>
+</div>
