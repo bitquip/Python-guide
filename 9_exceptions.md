@@ -38,3 +38,11 @@ if age < 0:
 ```
 
 Exception handling is crucial for writing robust code that can handle unexpected situations. In the next section, we'll explore the world of object-oriented programming (OOP) in Python. If you're ready, let's proceed!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/8_file_handling" style="margin: 10px; text-decoration: none;">← File Handling</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/10_oop" style="margin: 10px; text-decoration: none;">OOP →</a>
+</div>
