@@ -69,7 +69,7 @@ OOP allows you to create structured and modular code. In the final section, we'l
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/9_exceptions" style="margin: 10px; text-decoration: none;">← Exceptions</a>
+    <a href="https://bitquip.github.io/Python-guide/9_exceptions" style="margin: 10px; text-decoration: none;">← Exceptions</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/11_adv_intro" style="margin: 10px; text-decoration: none;">Advanced →</a>
+    <a href="https://bitquip.github.io/Python-guide/11_adv_intro" style="margin: 10px; text-decoration: none;">Advanced →</a>
 </div>
