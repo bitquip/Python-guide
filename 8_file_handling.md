@@ -34,4 +34,12 @@ with open("output.txt", "a") as file:
     file.write("\nThis text will be appended.")
 ```
 
-In the next section, we'll delve into exception handling, which allows you to gracefully manage errors in your code. If you're ready, let's continue!
+In the next section, we'll delve into exception handling, which allows you to gracefully manage errors in your code.
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/7_modules" style="margin: 10px; text-decoration: none;">← Modules</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/9_exceptions" style="margin: 10px; text-decoration: none;">Exceptions →</a>
+</div>
