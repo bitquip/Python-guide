@@ -47,4 +47,12 @@ unique_numbers = {1, 2, 3, 4}
 unique_numbers.add(5)
 ```
 
-Understanding these data structures is essential for efficient programming. In the next section, we'll explore modules and packages, which allow you to organize your code and use external libraries. If you're ready, let's proceed!
+Understanding these data structures is essential for efficient programming. In the next section, we'll explore modules and packages, which allow you to organize your code and use external libraries. 
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/5_functions" style="margin: 10px; text-decoration: none;">← Functions</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/7_modules" style="margin: 10px; text-decoration: none;">Modules →</a>
+</div>
