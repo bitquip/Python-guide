@@ -73,7 +73,7 @@ In the next section, we'll explore how to work with files in Python.
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/6_data_structures" style="margin: 10px; text-decoration: none;">Data Structures →</a>
+    <a href="https://bitquip.github.io/Python-guide/6_data_structures" style="margin: 10px; text-decoration: none;">Data Structures →</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/8_file_handling" style="margin: 10px; text-decoration: none;">← File Handling</a>
+    <a href="https://bitquip.github.io/Python-guide/8_file_handling" style="margin: 10px; text-decoration: none;">← File Handling</a>
 </div>
