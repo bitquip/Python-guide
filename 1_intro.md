@@ -49,3 +49,10 @@ You'll need a code editor to write and run your Python code. There are several o
 - **Jupyter Notebook:** An interactive environment commonly used for data analysis and scientific computing.
 
 In the next section, we'll set up your development environment and write your first Python program.
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/Python-guide/2_setup" style="margin: 10px; text-decoration: none;">Setup</a>
+</div>
