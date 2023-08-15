@@ -53,7 +53,7 @@ These advanced topics can significantly enhance your Python skills. Remember, pr
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/10_oop" style="margin: 10px; text-decoration: none;">← OOP</a>
+    <a href="https://bitquip.github.io/Python-guide/10_oop" style="margin: 10px; text-decoration: none;">← OOP</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/12_adv_end" style="margin: 10px; text-decoration: none;">Threads (Advanced) →</a>
+    <a href="https://bitquip.github.io/Python-guide/12_adv_end" style="margin: 10px; text-decoration: none;">Threads (Advanced) →</a>
 </div>
