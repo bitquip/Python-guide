@@ -25,3 +25,11 @@ Now that you have Python installed, you need a code editor to write and run your
 Choose the editor that suits your preferences and needs. You're now ready to start writing your first Python program!
 
 In the next section, we'll dive into the basic syntax of Python and explore its data types. Let me know when you're ready to proceed!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/1_intro" style="margin: 10px; text-decoration: none;">← Intro</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/3_syntax_datatypes" style="margin: 10px; text-decoration: none;">Syntax →</a>
+</div>
