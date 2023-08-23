@@ -17,7 +17,7 @@ Variables are used to store data in a program. In Python, you don't need to expl
 
 ```python
 # Variables and Data Types
-name = "John"       # A string
+name = "Guyver"       # A string
 age = 25            # An integer
 height = 5.11       # A floating-point number
 is_student = True   # A boolean
