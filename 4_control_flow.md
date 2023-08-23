@@ -17,6 +17,17 @@ else:
     print("You are a senior citizen.")
 ```
 
+```python
+name = "Michael Faraday"
+
+if name == "Michael Faraday":
+    print("The SI unit for electrical capacitance is named in honor of you!")
+elif name == "René Descartes":
+    print("Ever heard of Cartesian coordinates? Mind/Body Dualism?")
+else:
+    print("Not sure who you are!")
+```
+
 ### Loops
 
 Loops are used to execute a block of code repeatedly. Python offers two main types of loops: `for` loops and `while` loops.
@@ -55,6 +66,13 @@ for i in range(10):
         continue  # Skip even numbers
     print(i)
 ```
+
+It should be noted there are built-in queue data types in Python for achieving different behavior:
+
+- LIFO Queue: Last-In-First-Out data structure
+- FIFO Queue: First-In-First-Out data structure
+
+Both LIFO and FIFO queues are available and will be covered in the advanced section.
 
 Understanding control flow is crucial for building complex programs. In the next section, we'll explore functions, which allow you to group code for reuse. If you're ready, let's proceed!
 
